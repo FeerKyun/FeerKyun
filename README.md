@@ -22,7 +22,7 @@
 </div>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Guilhermerisu)](https://github.com/Guilhermerisu)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Guilhermerisu/)](https://www.linkedin.com/in/Guilhermerisu/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Guilhermerisu/)](https://www.linkedin.com/in/Guilhermerisu/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermevpimenta122@gmail.com)](mailto:guilhermevpimenta122@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Guilhermerisu&color=49f135">
 
