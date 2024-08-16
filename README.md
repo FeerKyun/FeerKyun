@@ -1,8 +1,5 @@
-
-<img src="https://github.com/Guilhermerisu/Guilhermerisu/blob/main/Animation.gif"/>
-
 <div align="center">
-<div>
+  <div>
 <img src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://camo.githubusercontent.com/d29dc2ca6b17444ca8a720075785612acba439f96323ad025687e5f83b88a485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3145393143423f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"/>
