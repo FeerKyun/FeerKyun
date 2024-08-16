@@ -29,11 +29,6 @@
          src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermerisu&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
   </a>
-    <a href="https://github.com/Guilhermerisu">
-    <img align="center"
-         height="150em"
-         src="https://activity-graph.herokuapp.com/graph?username=Guilhermerisu&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
-  </a>
 </p>
 
 
